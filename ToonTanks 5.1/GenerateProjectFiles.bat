@@ -1,0 +1,2 @@
+@"D:\Epic Games\UE_5.1\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe" -projectfiles -project="C:\Users\bhanu.s\Documents\Unreal Projects\ToonTanksProject\ToonTanks 5.1\ToonTanks.uproject" -game -rocket -progress
+pause
